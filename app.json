@@ -1,0 +1,27 @@
+{
+  "id": "abed8d54-e4a2-4aa7-bb97-bd3568cc50a8",
+  "name": "DXC Automate Planning/Requisition Worksheet Daily Job",
+  "publisher": "DXC",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50149
+  },
+  "target": "Internal",
+  "showMyCode": true,
+  "breakonerror" : true,
+  "runtime": "1.0"
+}
